@@ -1,0 +1,5 @@
+READ ME FILE
+
+This a mini project where I use python library Tkinter to develop a simple GUI( Graphical user Interface) for a weather forecast app.
+This app lets the user enter any city Name and click the button to get the current weather forecast of that city which is displayed on the screen.
+The GUI is connected to an online weather forecast API.
